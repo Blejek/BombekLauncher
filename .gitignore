@@ -44,6 +44,8 @@ build/
 Build/
 build-*/
 
+bin/
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
@@ -67,3 +69,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# scripts
+
+.vslaunch.bat
+.vsbuild.bat
+.vsconf.bat
+
+
+.vscode/

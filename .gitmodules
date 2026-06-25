@@ -1,0 +1,6 @@
+[submodule "vendor/soalib"]
+	path = vendor/soalib
+	url = https://github.com/Blejek/soalib.git
+[submodule "vendor/spdlog"]
+	path = vendor/spdlog
+	url = https://github.com/gabime/spdlog.git

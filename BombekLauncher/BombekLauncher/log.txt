@@ -1,0 +1,5 @@
+[15:38:26] [info] default: App constructed
+[15:38:26] [info] default: App is running
+[15:38:28] [info] default: App closed. 
+Code: 0
+app closed
